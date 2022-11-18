@@ -39,3 +39,18 @@ Some of the requirements implemented:
 - Customised number of snakes and ladders can be placed on the board
 - Games have specific players and board
 
+
+
+<br/>
+
+## [Car Rental System](CarRentalService/CarRentalSystem.py)
+
+This contains low level design implementation for a Car Rental Service with basic work flow and function definitions. It also contains the `main.py` module to indicate the work flow of the system.
+
+
+Some of the requirements implemented:
+- Different types of vehicles - cars, trucks, SUVs, vans, and motorcycles.
+- Each vehicle have a barcode and SpotId where it is parked
+- Two types of users considered: Admin and Members/Customer
+- Member can search/reserve/return vehicles
+
