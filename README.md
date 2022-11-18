@@ -3,6 +3,8 @@
 This repo contains Low level designs in Python 3.
 Idea is to have a head start to the low level designing concepts and to write clean,readable code implementation of real world problems.  
 
+**Note** : This repo is still under development and any contribution is welcomed!
+
 <br/>
 
 
